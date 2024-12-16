@@ -41,7 +41,6 @@ cd <repository-directory>
 Install the dependencies using Bun:
 
   ```bash
-  Copiar código
   bun install
   ```
 
@@ -49,7 +48,6 @@ Install the dependencies using Bun:
 Start the development server with Vite:
 
 ```bash
-Copiar código
 bun run dev
 ```
 
